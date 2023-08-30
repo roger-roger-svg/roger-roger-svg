@@ -1,17 +1,16 @@
 ### Hello there ‼️ :shipit:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roger_cunh4/)
-
-
+---------------------
+### Github stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=roger-roger-svg&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-roger-svg&layout=donut-vertical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-roger-svg&langs_count=8&theme=radical&layout=pie" />
 </a>
 
 ### Techs que utilizo 
-
 <div style="display: inline block"><br/>
     <img align="" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=gold"/>
     <img align="" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=red"/>
