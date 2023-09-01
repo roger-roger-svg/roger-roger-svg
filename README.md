@@ -20,3 +20,6 @@
     <img align="" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img align="" alt="Angular" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=footer"/>
+</a>
