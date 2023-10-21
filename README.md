@@ -4,7 +4,7 @@
 
 ### Hello there ‼️ :shipit:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roger_cunh4/)
+
 ---------------------
 ### Github stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
