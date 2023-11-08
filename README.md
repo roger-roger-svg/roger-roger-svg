@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=roger-roger-svg&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width=200 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-roger-svg&langs_count=8&theme=radical&layout=pie" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-roger-svg&langs_count=8&theme=radical&layout=pie" />
 </a>
 
 ### Techs que utilizo 
